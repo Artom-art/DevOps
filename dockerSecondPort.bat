@@ -1,0 +1,1 @@
+docker run -p 8888:8080 -d --name game2 artem/node:v1
